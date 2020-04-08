@@ -1,2 +1,2 @@
 # site
-site content
+GeoSHARE site contents (bare)
